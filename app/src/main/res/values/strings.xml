@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DNA Editor</string>
+    <string-array name="spinnerItems">
+        <item>Select An Item</item>
+        <!--
+        <item>editCodonSheet</item>
+        -->
+        <item>RNAtoDNA</item>
+        <item>toPeptide</item>
+        <item>DNAtoRNA</item>
+        <item>flipString</item>
+        <item>isDNA</item>
+        <item>isRNA</item>
+        <item>isPalindrome</item>
+        <item>DNAantiCodon</item>
+        <item>RNAantiCodon</item>
+        <item>getFrames</item>
+        <item>getReadingFrames</item>
+    </string-array>
+
+</resources>
